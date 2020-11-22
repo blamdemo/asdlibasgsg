@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: asdassafas
+  description: asdasfasg
+  annotations: 
+    github.com/project-slug: blamdemo/asdlibasgsg
+    backstage.io/github-actions-id: blamdemo/asdlibasgsg
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guest
